@@ -120,7 +120,7 @@ function RootLayoutNav() {
                   headerTitle: () => (
                     <TextInput
                       mode="outlined"
-                      placeholder="Search Stocks..."
+                      placeholder="Search Locations..."
                       autoFocus
                       dense
                       style={{ width: "88%" }}
